@@ -19,8 +19,8 @@ Este repositorio contiene una aplicación de sistema de recursos humanos desarro
 
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
-- [Node.js](https://nodejs.org/) (versión x.x.x o superior)
-- [Maven](https://maven.apache.org/) (versión x.x.x o superior)
+- [Node.js](https://nodejs.org/) (versión 18.12.0 o superior)
+- [Maven](https://maven.apache.org/) (versión 3.9.7 o superior)
 - [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (JDK 11 o superior)
 - Una base de datos (MySQL)
 
